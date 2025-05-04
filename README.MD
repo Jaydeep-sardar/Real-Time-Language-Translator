@@ -69,7 +69,3 @@ If you liked it, consider giving a ⭐, sharing it, or using it in your own work
 > _"Code is like humor. When you have to explain it, it’s bad." – Cory House_
 
 ---
-
-Made with ❤️ and ☕ by [Your Name]
-```
----
